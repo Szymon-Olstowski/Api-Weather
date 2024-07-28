@@ -8,3 +8,4 @@ Dodatkowo należy zainstalować pakiety: requests, PySimpleGUI.<br>
 Program został napisany w języku python.<br>
 Wejsja python 3.10<x
 
+Ps kod na razie nie działa
